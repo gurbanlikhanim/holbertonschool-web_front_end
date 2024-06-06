@@ -7,9 +7,9 @@
 
 ## Description
 
-- My motivation for writing second project is to learn more information and succesfully pass current step.
+- I gain very important knowledge about developer tools, so I understand how to use the functionality more efficiently
 - I want to write this task for learn new information and pass to second level 
-- I have not encountered yet any issue when i write this project
+- I have not encountered yet any issue when i write this project so i feel very motivation when i write task
 - When i have written this project task i feel to learn advanced html, css and design Readme file
 
 ## Table of Contents (Optional)
